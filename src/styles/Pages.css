@@ -1,0 +1,18 @@
+.intro{
+    padding-left: 3%;
+    text-align: center;
+}
+
+.list a {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    padding-top: 40px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.list a:hover {
+  letter-spacing: 4px;
+}

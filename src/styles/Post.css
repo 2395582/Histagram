@@ -1,0 +1,38 @@
+.post{
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+   
+}
+
+.profile{
+    padding-right: 70%;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+}
+
+.image{
+    width: 700px;
+    height: 500px;
+    object-fit: contain;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.caption{
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    padding-left: 4%;
+}
+
+.date{
+    display: flex;
+    align-items: center;
+    padding-left: 4%;
+    font-size: smaller;
+}
